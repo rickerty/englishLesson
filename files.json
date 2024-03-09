@@ -1,5 +1,5 @@
 [
-    {
+{
     "polski": "zastosować się",
     "angielski": "apply to"
     },
@@ -22,6 +22,18 @@
     {
         "polski": "wydział zabójstw",
         "angielski": "homicide unit"
+    },
+    {
+        "polski": "niezadowolony",
+        "angielski": "disgruntled"
+    },
+    {
+        "polski": "domniemany strzelec",
+        "angielski": "alleged shooter"
+    },
+    {
+        "polski": "ujawnił",
+        "angielski": "revealed"
     }
 
 ]
